@@ -6,8 +6,6 @@ The project appears to be a movie recommendation system, utilizing Python and po
 
 It seems there was an issue saving the description to your GitHub repository document. Here’s the description you can use directly:
 
----
-
 # Movie Recommendation System
 
 This repository contains a Python-based movie recommendation system. The project leverages user ratings to suggest movies based on shared preferences and similar viewing patterns. By utilizing data structures such as graphs and dictionaries, the system efficiently identifies relationships between users and their rated movies.
@@ -47,9 +45,7 @@ user_ratings = {
     "User1": {"Inception": 5, "The Matrix": 4, "Interstellar": 5},
     "User2": {"Inception": 4, "The Prestige": 4, "The Dark Knight": 5},
     "User3": {"The Matrix": 5, "Interstellar": 4, "The Dark Knight": 4},
-    ...
 }
-```
 
 The system generates movie recommendations based on overlapping interests among users.
 
@@ -60,7 +56,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
 
 Happy coding and happy watching! 🎥🍿
