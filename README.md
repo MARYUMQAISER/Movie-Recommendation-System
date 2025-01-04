@@ -1,10 +1,3 @@
-# Movie-Recommendation-System
-
-
-
-The project appears to be a movie recommendation system, utilizing Python and potentially involving data structures like graphs and dictionaries for analyzing user-movie ratings. Based on this, I'll write a description for your GitHub repository.
-
-It seems there was an issue saving the description to your GitHub repository document. Here’s the description you can use directly:
 
 # Movie Recommendation System
 
@@ -53,8 +46,5 @@ The system generates movie recommendations based on overlapping interests among 
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 Happy coding and happy watching! 🎥🍿
